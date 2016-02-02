@@ -52,10 +52,10 @@ $Intro +=@{name = 'cyclopsox';
 
 $Intro +=@{name = 'chlsmith';
            fullName = 'Chris Smith';
-           currentStatus = '?';
-           website = '?';
+           currentStatus = 'DevOps @ Trek Bikes';
+           website = 'https://chlsmith.wordpress.com/';
            claimToFame = '?';
-           twitter = 'Unknown'}
+           twitter = 'chlsmith'}
 
 $Intro +=@{name = 'cobusbernard';
            fullName = 'Cobus Bernard';
@@ -66,7 +66,7 @@ $Intro +=@{name = 'cobusbernard';
 
 $Intro +=@{name = 'davewyatt';
            fullName = 'Dave Wyatt';
-           currentStatus = '?';
+           currentStatus = 'Operations Engineer @ DevOpsGuys';
            website = 'https://davewyatt.wordpress.com/';
            claimToFame = 'Chief Pesterer of Pester :D';
            twitter = 'MSH_Dave'}
@@ -223,7 +223,7 @@ $Intro +=@{name = 'smurawski';
            currentStatus = 'Software Development Engineer @ Chef';
            website = 'http://stevenmurawski.com/';
            claimToFame = 'Total Chef Expert';
-           twitter = 'smurawksi'}
+           twitter = 'stevenmurawski'}
 
 $Intro +=@{name = 'tobmat';
            fullName = 'Toby Matherly';
@@ -234,10 +234,10 @@ $Intro +=@{name = 'tobmat';
 
 $Intro +=@{name = 'trevorghess';
            fullName = 'Trevor Hess';
-           currentStatus = '?';
-           website = '?';
-           claimToFame = '?';
-           twitter = '?'}
+           currentStatus = 'Principal Consultant @ 10th Magnitude';
+           website = 'www.arresteddevops.com';
+           claimToFame = 'Co-Host of Arrested DevOps';
+           twitter = 'trevorghess'}
 
 $Intro +=@{name = 'Zach';
            fullName = 'Zach';
@@ -247,6 +247,6 @@ $Intro +=@{name = 'Zach';
            twitter = '?'}
 
 $Intro | % {
-    "*$($_.fullName)* ($($_.name)) -  ($($_.currentStatus)) -- Website: '''$($_.website)''' $($_.claimToFame) (Twitter: $($_.twitter))"
+    "*$($_.fullName)* ($($_.name)) -  ($($_.currentStatus)) -- Website: '''$($_.website)''' $($_.claimToFame) (Twitter: @$($_.twitter))"
 }
 #$Intro | ConvertTo-Json
