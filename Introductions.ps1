@@ -24,9 +24,9 @@ $Intro +=@{name = 'bradtech';
 
 $Intro +=@{name = 'brandon.olin';
            fullName = 'Brandon Olin';
-           currentStatus = '?';
+           currentStatus = 'Lead Systems Engineer @ Columbia Sportswear';
            website = 'http://devblackops.io';
-           claimToFame = '?';
+           claimToFame = 'Does PowerShell, DSC, Chef, and other duties as assigned.';
            twitter = 'devblackops'}
 
 $Intro +=@{name = 'Carlos1Murray';
