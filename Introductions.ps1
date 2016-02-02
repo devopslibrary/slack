@@ -157,9 +157,9 @@ $Intro +=@{name = 'wademikalj';
 
 $Intro +=@{name = 'mwrockx';
            fullName = 'Matt Wrock';
-           currentStatus = '? @ Chef';
+           currentStatus = 'Software Development Engineer @ Chef';
            website = 'http://www.hurryupandwait.io';
-           claimToFame = "Matt Wrock's blog on software development topics related to devops, cloud, automation, .net, powershell, and more.";
+           claimToFame = "Open Source Enthusiast and creator of Boxstarter.";
            twitter = 'mwrockx'}
 
 $Intro +=@{name = 'leskat';
