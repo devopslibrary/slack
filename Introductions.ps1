@@ -253,6 +253,13 @@ $Intro +=@{name = 'Aaron Jensen';
            claimToFame = 'Creator/owner of Carbon, http://get-carbon.org - @pshdo';
            twitter = '@splatteredbits'}
 
+$Intro +=@{name = 'Levi Geinert';
+           fullName = 'levi.geinert';
+           currentStatus = 'WindowsAutomationGuy @ Target';
+           website = '';
+           claimToFame = 'Chef and Windows Automation';
+           twitter = '@levi_online'}
+
 $Intro | % {
     "*$($_.fullName)* ($($_.name)) -  ($($_.currentStatus)) -- Website: '''$($_.website)''' $($_.claimToFame) (Twitter: @$($_.twitter))"
 }
