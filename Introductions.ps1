@@ -246,19 +246,26 @@ $Intro +=@{name = 'Zach';
            claimToFame = '?';
            twitter = '?'}
 
-$Intro +=@{name = 'Aaron Jensen';
-           fullName = 'aaronjensen';
+$Intro +=@{name = 'aaronjensen';
+           fullName = 'Aaron Jensen';
            currentStatus = 'Senior Automation Engineer @ WebMD Health Services';
            website = 'http://pshdo.com';
            claimToFame = 'Creator/owner of Carbon, http://get-carbon.org - @pshdo';
            twitter = '@splatteredbits'}
 
-$Intro +=@{name = 'Levi Geinert';
-           fullName = 'levi.geinert';
-           currentStatus = 'WindowsAutomationGuy @ Target';
+$Intro +=@{name = 'levi.geinert';
+           fullName = 'Levi Geinert';
+           currentStatus = 'Windows Automation Guy @ Target';
            website = '';
            claimToFame = 'Chef and Windows Automation';
            twitter = '@levi_online'}
+
+$Intro +=@{name = 'migreene';
+           fullName = 'Michael Greene';
+           currentStatus = 'Principal Program Manager @ Microsoft, ECG CAT team';
+           website = 'http://github.com/mgreenegit';
+           claimToFame = 'Microsoft Principal Program Manager, CAT Team, focus on PowerShell and Cloud Architecture';
+           twitter = '@migreene'}
 
 $Intro | % {
     "*$($_.fullName)* ($($_.name)) -  ($($_.currentStatus)) -- Website: '''$($_.website)''' $($_.claimToFame) (Twitter: @$($_.twitter))"
