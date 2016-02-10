@@ -267,6 +267,13 @@ $Intro +=@{name = 'migreene';
            claimToFame = 'Microsoft Principal Program Manager, CAT Team, focus on PowerShell and Cloud Architecture';
            twitter = '@migreene'}
 
+$Intro +=@{name = 'mario_wood';
+           fullName = 'Andrew Marwood';
+           currentStatus = 'Senior DevOps Engineer @ Traceone';
+           website = '';
+           claimToFame = '';
+           twitter = '@mario_wood'}
+
 $Intro | % {
     "*$($_.fullName)* ($($_.name)) -  ($($_.currentStatus)) -- Website: '''$($_.website)''' $($_.claimToFame) (Twitter: @$($_.twitter))"
 }
