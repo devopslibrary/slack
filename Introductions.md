@@ -10,6 +10,7 @@
 | Chase Campos (`chewster`) | Site Reliability Engineer @ AngiesList.com |  | |  |
 | Chris Smith (`chlsmith`) | DevOps @ Trek Bikes | [chlsmith.wordpress.com](https://chlsmith.wordpress.com/) | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chlsmith) |
 | Cobus Bernard (`cobusbernard`) | DevOps @ HealthQ | [cobus.io](http://cobus.io/) | DevOpser with Chef, Ansible, Jenkins.  Also Codes. Playing with Docker |  |
+| Chris Hunt (`cdhunt`) | System Engineer @ Ticketmaster | [www.automatedops.com](https://www.automatedops.com) | Admin of NoVaPSUG | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/logicaldiagram) |
 | Chris Lee (`cyclopsox`) | Senior ? @ Kinney Group |  | Awesome Jack of all Trades guy, big on Jenkins/Linux. |  |
 | Dave Wyatt (`davewyatt`) | Operations Engineer @ DevOpsGuys | [davewyatt.wordpress.com](https://davewyatt.wordpress.com/) | Chief Pesterer of Pester :D | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/MSH_Dave) |
 | Greg Vauter (`gvauter`) | Automation? @ Interactive Intelligence | [GitHub](https://github.com/gvauter) | Automation Guy? Let me know what to put! |  |
