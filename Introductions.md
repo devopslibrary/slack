@@ -10,7 +10,7 @@
 | Chase Campos (`chewster`) | Site Reliability Engineer @ AngiesList.com |  | |  |
 | Chris Hunt (`cdhunt`) | Systems Engineer @ Ticketmaster | [automatedops.com](http://automatedops.com) | SaaS Operator. PowerShell.org TechLetter Editor | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/logicaldiagram) |
 | Chris Lee (`cyclopsox`) | Senior ? @ Kinney Group |  | Awesome Jack of all Trades guy, big on Jenkins/Linux. |  |
-| Chris Smith (`chlsmith`) | DevOps @ Trek Bikes | [chlsmith.wordpress.com](https://chlsmith.wordpress.com/) | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chlsmith) |
+| Chris Smith (`chlsmith`) | DevOps @ Trek Bikes | [http://coffeeandpizza.net](http://www.coffeeandpizza.net/) | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chlsmith) |
 | Cobus Bernard (`cobusbernard`) | DevOps @ HealthQ | [cobus.io](http://cobus.io/) | DevOpser with Chef, Ansible, Jenkins.  Also Codes. Playing with Docker |  |
 | Dave Wyatt (`davewyatt`) | Operations Engineer @ DevOpsGuys | [davewyatt.wordpress.com](https://davewyatt.wordpress.com/) | Chief Pesterer of Pester :D | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/MSH_Dave) |
 | Flynn Bundy (`bundyfx`) | Systems Engineer @ Coolblue | [flynnbundy.com](http://flynnbundy.com/) | A Windows based Systems Engineer currently residing in Rotterdam, The Netherlands. |  |
