@@ -36,6 +36,7 @@
 | Ryan McAdams(`mcadams`) | DevOps Manager @ Interactive Intelligence |  | Openstack + VOIP + Slight minecraft skill |  |
 | Shawn Hall (`s.hall`) | DevOps @ Indianapolis Company |  | PowerShell + Puppet Skills |  |
 | Steven Murawski (`smurawski`) | Software Development Engineer @ Chef | [stevenmurawski.com](http://stevenmurawski.com) | Total Chef Expert | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/stevenmurawski) |
+| Stephen Owen (`stephenowen`) | Automation and Management Consultant | [foxdeploy.com](http://www.foxdeploy.com) | System Center, PowerShell, Windows mgmt | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/foxdeploy) |
 | Toby Matherly (`tobmat`) | Infra Automation @ Interactive Intelligence |  | Openstack Expert |  |
 | Trevor Hess (`trevorghess`) | Principal Consultant @ 10th Magnitude | [arresteddevops.com](http://www.arresteddevops.com) | Co-Host of Arrested DevOps | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/trevorghess) |
 | Eric Anderson (`ericsysmin`) | Senior DevOps @ Comcast | [ericsysmin.com](http://ericsysmin.com) | Everything DevOps! (Salt, Puppet, Ansible, Jenkins, TeamCity, AWS Architect, OpenStack Engineer | |
