@@ -23,7 +23,7 @@
 | Justino Garcia (`itadder`) | |  | |  |
 | Ken Erwin (`ken`) | Senior Automation Engineer @ Kinney Group | [devopslibrary.com](http://www.devopslibrary.com) | DevOps Library Founder, also Sensu course by OReilly is mine :) | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/kenerwin88) |
 | Levi Geinert (`levi.geinert`) | Windows Automation Guy @ Target |  | Chef and Windows Automation | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/levi_online) |
-| Martez Reed (`martezreed`) | Senior Automation Engineer ? @ Kinney Group |  | |  |
+| Martez Reed (`martezreed`) | Senior Automation Engineer ? @ Kinney Group | [www.greenreedtech.com](www.greenreedtech.com) | |  |
 | Matt Wrock (`mwrockx`) | Software Development Engineer @ Chef | [hurryupandwait.io](http://www.hurryupandwait.io) | Open Source Enthusiast and creator of Boxstarter. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mwrockx) |
 | Matthew Hodgkins (`hodge`) | DevOps @ Oil Company | [hodgkins.io](https://hodgkins.io/) | System Engineer, PowerShell, Chef and Automation lover and Aussie. Living and working in Texas. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/matthodge) |
 | Michael Greene (`migreene`) | Principal Program Manager @ Microsoft, ECG CAT team | [GitHub](http://github.com/mgreenegit) | Microsoft Principal Program Manager, CAT Team, focus on PowerShell and Cloud Architecture | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/migreene) |
