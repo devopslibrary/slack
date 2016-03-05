@@ -274,6 +274,13 @@ $Intro +=@{name = 'mario_wood';
            claimToFame = '';
            twitter = '@mario_wood'}
 
+$Intro +=@{name = 'pscookiemonster'
+           fullName = 'Warren Frame'
+           currentStatus = 'Infrastructure Engineer @ Harvard FAS Research Computing'
+           website = 'http://ramblingcookiemonster.github.io'
+           claimToFame = 'Perpetual student. Occasionally writes about PowerShell.'
+           twitter = '@pscookiemonster'}
+
 $Intro | % {
     "*$($_.fullName)* ($($_.name)) -  ($($_.currentStatus)) -- Website: '''$($_.website)''' $($_.claimToFame) (Twitter: @$($_.twitter))"
 }
