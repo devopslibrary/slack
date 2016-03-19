@@ -5,7 +5,7 @@
 | Andrew White (`andreww`) | Site Ops Engineer @ AngiesList.com |  | Awesome painter, QA, Operations guy with sense of humor |  |
 | Bill Jones (`bill.jones`) | Lead Database Engineer @ SalesForce.com |  | Lord of MySQL & Awesome at Operations, formerly AL |  |
 | Brad Williamson (`bradtech`) | DevOps @ State of Oklahoma Public Sector |  | Chef, Windows, PowerShell, VMware |  |
-| Brandon Olin (`brandon.olin`) | Lead Systems Engineer @ Columbia Sportswear | [devblackops.io](http://devblackops.io) | Does PowerShell, DSC, Chef, and other duties as assigned. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/devblackops) |
+| Brandon Olin (`devblackops`) | Lead Systems Engineer @ Columbia Sportswear | [devblackops.io](http://devblackops.io) | Does PowerShell, DSC, Chef, and other duties as assigned. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/devblackops) |
 | Carlos Murray (`Carlos1Murray`) | |  | Currently working on entering IT |  |
 | Chase Campos (`chewster`) | Site Reliability Engineer @ AngiesList.com |  | |  |
 | Chris Hunt (`cdhunt`) | Systems Engineer @ Ticketmaster | [automatedops.com](http://automatedops.com) | SaaS Operator. PowerShell.org TechLetter Editor | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/logicaldiagram) |
