@@ -17,6 +17,7 @@
 | Flynn Bundy (`bundyfx`) | Systems Engineer @ Coolblue | [flynnbundy.com](http://flynnbundy.com/) | A Windows based Systems Engineer currently residing in Rotterdam, The Netherlands. |  |
 | Greg Vauter (`gvauter`) | Automation? @ Interactive Intelligence | [GitHub](https://github.com/gvauter) | Automation Guy? Let me know what to put! |  |
 | Hamid Maddi (`hamid`) | Automation Engineer @ Interactive Intelligence | | Super Openstack/Infrastructure Guy |  |
+| Jared Barnett (`jmwbarnett`) | Systems Architect @ Verizon Enterprise Solutions | [LinkedIn](https://www.linkedin.com/in/jared-barnett-72b40719) | Developer, transitioning to DevOps, always learning | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jmwbarnett) |
 | Jody Tooley (`jody.tooley`) | DevOps Manager @ AngiesList.com |  | Awesome Docker + Jenkins Skills, weak at Starcraft |  |
 | Joe Beaudry (`jbeaudry`) | Systems Engineer @ Brainshark | [ctrlaltshoot.com](http://www.ctrlaltshoot.com) | Swiss army knife of random infrastructure skills. |  |
 | John Wenzler (`jwenzler`) | DevOps @ iFit | [GitHub](https://github.com/jwenzler) | DevOps Guy @ iFit |  |
