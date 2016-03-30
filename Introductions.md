@@ -14,6 +14,7 @@
 | Cobus Bernard (`cobusbernard`) | DevOps @ HealthQ | [cobus.io](http://cobus.io/) | DevOpser with Chef, Ansible, Jenkins.  Also Codes. Playing with Docker |  |
 | Dave Wyatt (`davewyatt`) | Operations Engineer @ DevOpsGuys | [davewyatt.wordpress.com](https://davewyatt.wordpress.com/) | Chief Pesterer of Pester :D | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/MSH_Dave) |
 | Eric Anderson (`ericsysmin`) | Senior DevOps @ Comcast | [ericsysmin.com](http://ericsysmin.com) | Everything DevOps! (Salt, Puppet, Ansible, Jenkins, TeamCity, AWS Architect, OpenStack Engineer | |
+| Eric Courville (`organicit`) | Senior Member @ Verizon | [organicit.io](http://organicit.io) | PowerShell MVP & Lover of Linux | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/_organicit) |
 | Flynn Bundy (`bundyfx`) | Systems Engineer @ Coolblue | [flynnbundy.com](http://flynnbundy.com/) | A Windows based Systems Engineer currently residing in Rotterdam, The Netherlands. |  |
 | Greg Vauter (`gvauter`) | Automation? @ Interactive Intelligence | [GitHub](https://github.com/gvauter) | Automation Guy? Let me know what to put! |  |
 | Hamid Maddi (`hamid`) | Automation Engineer @ Interactive Intelligence | | Super Openstack/Infrastructure Guy |  |
