@@ -44,4 +44,5 @@
 | Toby Matherly (`tobmat`) | Infra Automation @ Interactive Intelligence |  | Openstack Expert |  |
 | Trevor Hess (`trevorghess`) | Principal Consultant @ 10th Magnitude | [arresteddevops.com](http://www.arresteddevops.com) | Co-Host of Arrested DevOps | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/trevorghess) |
 | Tyson J. Hayes (`tysonjhayes`) | Service Engineer @ Microsoft, Turn 10 Studios | [GitHub](http://github.com/tysonjhayes) | Service Engineer for [Turn 10 Studios](http://forzamotorsport.net/en-us/) | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/tysonjhayes) |
+| Jason Morgan (`jasonmorgan`) | Tools and Innovation Engineer @ Verizon | [GitHub](http://github.com/JasonMorgan) | I like computers | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/RJasonMorgan) |
 | Warren Frame (`pscookiemonster`) | Infrastructure Engineer @ Harvard FAS Research Computing | [ramblingcookiemonster...](http://ramblingcookiemonster.github.io/) | Perpetual student. Occasionally writes about PowerShell. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/pscookiemonster) |
