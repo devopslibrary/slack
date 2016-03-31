@@ -23,6 +23,7 @@
 | Joe Beaudry (`jbeaudry`) | Systems Engineer @ Brainshark | [ctrlaltshoot.com](http://www.ctrlaltshoot.com) | Swiss army knife of random infrastructure skills. |  |
 | John Wenzler (`jwenzler`) | DevOps @ iFit | [GitHub](https://github.com/jwenzler) | DevOps Guy @ iFit |  |
 | Joshua Duffney (`josh`) | Senior Systems Engineer @ ACI Worldwide | [LinkedIn](https://www.linkedin.com/in/joshuaduffney) | Powershell guy, gives talks and links us to awesome devops vids |  |
+| June Blender (`juneb`) | Technical Evangelist @ SAPIEN Technologies, Inc. | [sapien.com/blog](https://www.sapien.com/blog) | Programmer/Writer. Writes help. Reads help. Lives PowerShell. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/juneb_get_help) |
 | Justino Garcia (`itadder`) | |  | |  |
 | Ken Erwin (`ken`) | Senior Automation Engineer @ Kinney Group | [devopslibrary.com](http://www.devopslibrary.com) | DevOps Library Founder, also Sensu course by OReilly is mine :) | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/kenerwin88) |
 | Levi Geinert (`levi.geinert`) | Windows Automation Guy @ Target |  | Chef and Windows Automation | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/levi_online) |
