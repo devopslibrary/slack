@@ -30,6 +30,7 @@
 | Levi Geinert (`levi.geinert`) | Windows Automation Guy @ Target |  | Chef and Windows Automation | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/levi_online) |
 | Martez Reed (`martezreed`) | Senior Automation Engineer ? @ Kinney Group | [www.greenreedtech.com](www.greenreedtech.com) | |  |
 | Matt Wrock (`mwrockx`) | Software Development Engineer @ Chef | [hurryupandwait.io](http://www.hurryupandwait.io) | Open Source Enthusiast and creator of Boxstarter. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mwrockx) |
+| Matthew Walter (`ohaiwalt`) | Infrastructure Manager @ North American Power |  | Linux admin, unlikely Windows adventurer. Automation, Chef, ChatOps. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/ohaiwalt) |
 | Matthew Hodgkins (`hodge`) | DevOps @ Oil Company | [hodgkins.io](https://hodgkins.io/) | System Engineer, PowerShell, Chef and Automation lover and Aussie. Living and working in Texas. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/matthodge) |
 | Michael Greene (`migreene`) | Principal Program Manager @ Microsoft, ECG CAT team | [GitHub](http://github.com/mgreenegit) | Microsoft Principal Program Manager, CAT Team, focus on PowerShell and Cloud Architecture | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/migreene) |
 | Mikal Wade (`wademikalj`) | Site Operations Manager @ Angies List |  | |  |
