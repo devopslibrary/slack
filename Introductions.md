@@ -13,6 +13,7 @@
 | Chris Lee (`cyclopsox`) | Senior ? @ Kinney Group |  | Awesome Jack of all Trades guy, big on Jenkins/Linux. |  |
 | Chris Smith (`chlsmith`) | DevOps @ Trek Bikes | [http://coffeeandpizza.net](http://www.coffeeandpizza.net/) | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chlsmith) |
 | Cobus Bernard (`cobusbernard`) | DevOps @ HealthQ | [cobus.io](http://cobus.io/) | DevOpser with Chef, Ansible, Jenkins.  Also Codes. Playing with Docker |  |
+| Daniel Scott-Raynsford (`dscottraynsford`) | DevOps Contractor | [dscottraynsford.wordpress.com](https://dscottraynsford.wordpress.com/) | Is there a DSC resource for that? | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/dscottraynsford) |
 | Dave Wyatt (`davewyatt`) | Operations Engineer @ DevOpsGuys | [davewyatt.wordpress.com](https://davewyatt.wordpress.com/) | Chief Pesterer of Pester :D | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/MSH_Dave) |
 | Eric Anderson (`ericsysmin`) | Senior DevOps @ Comcast | [ericsysmin.com](http://ericsysmin.com) | Everything DevOps! (Salt, Puppet, Ansible, Jenkins, TeamCity, AWS Architect, OpenStack Engineer | |
 | Eric Courville (`organicit`) | Senior Member @ Verizon | [organicit.io](http://organicit.io) | PowerShell MVP & Lover of Linux | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/_organicit) |
