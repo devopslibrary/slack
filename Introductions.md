@@ -1,6 +1,7 @@
 | Name | Role | Website | Tagline | TWTR |
 |---|---|---|---|---|---|
 | Aaron Jensen (`aaronjensen`) | Senior Automation Engineer @ WebMD Health Services | [pshdo.com](http://pshdo.com) | Creator/owner of Carbon, http://get-carbon.org | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/splatteredbits) |
+| Adam Bertram (`adbertram`) | Senior Automation Engineer @ Genomic Health | [Github](http://github.com/adbertram/) | Adam the Automator | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/adbertram) |
 | Andrew Marwood (`mario_wood`) | Senior DevOps Engineer @ Traceone |  |  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mario_wood) |
 | Andrew White (`andreww`) | Site Ops Engineer @ AngiesList.com |  | Awesome painter, QA, Operations guy with sense of humor |  |
 | Ben Gelens (`bgelens`) | CloudOS Consultant @ Inovativ | [GitHub](https://github.com/bgelens) | Mainly PowerShell, DSC, Azure, Azure Stack and Azure Pack. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/bgelens) |
@@ -51,4 +52,3 @@
 | Jason Morgan (`jasonmorgan`) | Tools and Innovation Engineer @ Verizon | [GitHub](http://github.com/JasonMorgan) | I like computers | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/RJasonMorgan) |
 | Warren Frame (`pscookiemonster`) | Infrastructure Engineer @ Harvard FAS Research Computing | [ramblingcookiemonster...](http://ramblingcookiemonster.github.io/) | Perpetual student. Occasionally writes about PowerShell. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/pscookiemonster) |
 | Mike Lombardi (`michaeltlombardi`) | Sysadmin @ CSRA, Inc | [Github](http://github.com/michaeltlombardi/) | Continually Improving (Somewhat) Barbaric Automator | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/barbariankb) |
-| Adam Bertram (`adbertram`) | Senior Automation Engineer @ Genomic Health | [Github](http://github.com/adbertram/) | Adam the Automator | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/adbertram) |
