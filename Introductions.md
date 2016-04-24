@@ -17,6 +17,7 @@
 | Cobus Bernard (`cobusbernard`) | DevOps @ HealthQ | [cobus.io](http://cobus.io/) | DevOpser with Chef, Ansible, Jenkins.  Also Codes. Playing with Docker |  |
 | Daniel Scott-Raynsford (`dscottraynsford`) | DevOps Contractor | [dscottraynsford.wordpress.com](https://dscottraynsford.wordpress.com/) | Is there a DSC resource for that? | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/dscottraynsford) |
 | Dave Wyatt (`davewyatt`) | Operations Engineer @ DevOpsGuys | [davewyatt.wordpress.com](https://davewyatt.wordpress.com/) | Chief Pesterer of Pester :D | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/MSH_Dave) |
+| David Wilson (`daviwil`) | Software Engineer @ Microsoft | [daviwil.com](https://daviwil.com/) | I make PowerShell editing tools.  PowerShell ISE, Visual Studio Code, etc. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/daviwil) |
 | Eric Anderson (`ericsysmin`) | Senior DevOps @ Comcast | [ericsysmin.com](http://ericsysmin.com) | Everything DevOps! (Salt, Puppet, Ansible, Jenkins, TeamCity, AWS Architect, OpenStack Engineer | |
 | Eric Courville (`organicit`) | Senior Member @ Verizon | [organicit.io](http://organicit.io) | PowerShell MVP & Lover of Linux | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/_organicit) |
 | Flynn Bundy (`bundyfx`) | Systems Engineer @ Coolblue | [flynnbundy.com](http://flynnbundy.com/) | A Windows based Systems Engineer currently residing in Rotterdam, The Netherlands. |  |
