@@ -44,6 +44,7 @@
 | Nicholas H (`leskat`) | Mortar Infantry @ Swiss Army | | Windows automation, PowerShell, SCCM, Security, Blowing things up |  |
 | Patrick Lavalley (`pat`) | |  | |  |
 | Phil (`phil`) | Site Ops @ Angies List |  | |  |
+| Ray Crawford (`raycrawford`) | IaaS Service Manager @ Procter & Gamble | [Github](https://github.com/raycrawford/) | Cloudifying and Automating an Outsourced Enterprise one box at at time | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/reachtheworld) |
 | Rob Reynolds (`ferventcoder`) | Senior Software Engineer @ Puppet | [codebetter.com/robreynolds](http://codebetter.com/robreynolds) | Creator of Chocolatey (package manager for Windows) / Puppet <3 Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/ferventcoder) |
 | Robin Blanchard (`robin`) | Awesome Linux guy @ Nephila Advisors |  | Awesome at Big Data/Linux/Storage/Hadoop |  |
 | Rodney (`rodney`) | ? @ Interactive Intelligence |  | Master of VOIP |  |
