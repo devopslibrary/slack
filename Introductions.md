@@ -51,6 +51,7 @@
 | Rodney (`rodney`) | ? @ Interactive Intelligence |  | Master of VOIP |  |
 | Ryan McAdams(`mcadams`) | DevOps Manager @ Interactive Intelligence |  | Openstack + VOIP + Slight minecraft skill |  |
 | Shawn Hall (`s.hall`) | DevOps @ Indianapolis Company |  | PowerShell + Puppet Skills |  |
+| Shawn Neal (`sneal`) | Solutions Architect @ Pivotal | [codingonstilts.com](http://codingonstilts.com) | Windows DevOps Contributor: Vagrant, Packer, CloudFoundry, WinRM gem, Chef | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/sneal78) |
 | Steven Murawski (`smurawski`) | Software Development Engineer @ Chef | [stevenmurawski.com](http://stevenmurawski.com) | Total Chef Expert | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/stevenmurawski) |
 | Stephen Owen (`stephenowen`) | Automation and Management Consultant | [foxdeploy.com](http://www.foxdeploy.com) | System Center, PowerShell, Windows mgmt | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/foxdeploy) |
 | Toby Matherly (`tobmat`) | Infra Automation @ Interactive Intelligence |  | Openstack Expert |  |
