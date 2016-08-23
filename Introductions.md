@@ -15,6 +15,7 @@
 | Chris Hunt (`cdhunt`) | Systems Engineer @ Ticketmaster | [automatedops.com](http://automatedops.com) | SaaS Operator. PowerShell.org TechLetter Editor | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/logicaldiagram) |
 | Chris Lee (`cyclopsox`) | Senior ? @ Kinney Group |  | Awesome Jack of all Trades guy, big on Jenkins/Linux. |  |
 | Chris Smith (`chlsmith`) | DevOps @ Trek Bikes | [http://coffeeandpizza.net](http://www.coffeeandpizza.net/) | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chlsmith) |
+| Chris Wahl (`chriswahl`) | Tech Evangelist @ Rubrik | [http://wahlnetwork.com/](http://wahlnetwork.com/) | Host of the [Datanauts Podcast](http://packetpushers.net/datanauts-podcast/) | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chriswahl) |
 | Cobus Bernard (`cobusbernard`) | DevOps @ HealthQ | [cobus.io](http://cobus.io/) | DevOpser with Chef, Ansible, Jenkins.  Also Codes. Playing with Docker |  |
 | Daniel Scott-Raynsford (`dscottraynsford`) | DevOps Contractor | [dscottraynsford.wordpress.com](https://dscottraynsford.wordpress.com/) | Is there a DSC resource for that? | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/dscottraynsford) |
 | Dave Wyatt (`davewyatt`) | Operations Engineer @ DevOpsGuys | [davewyatt.wordpress.com](https://davewyatt.wordpress.com/) | Chief Pesterer of Pester :D | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/MSH_Dave) |
