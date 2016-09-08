@@ -33,6 +33,7 @@
 | Jared Barnett (`jmwbarnett`) | Systems Architect @ Verizon Enterprise Solutions | [LinkedIn](https://www.linkedin.com/in/jared-barnett-72b40719) | Developer, transitioning to DevOps, always learning | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jmwbarnett) |
 | Jody Tooley (`jody.tooley`) | DevOps Manager @ AngiesList.com |  | Awesome Docker + Jenkins Skills, weak at Starcraft |  |
 | Joe Beaudry (`jbeaudry`) | Systems Engineer @ Brainshark | [ctrlaltshoot.com](http://www.ctrlaltshoot.com) | Swiss army knife of random infrastructure skills. |  |
+| Joel Bennett (`jaykul`) | DevOps @ Questionmark | [HuddledMasses](http://HuddledMasses.org) | I fix things with code | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jaykul) |
 | John Wenzler (`jwenzler`) | DevOps @ iFit | [GitHub](https://github.com/jwenzler) | DevOps Guy @ iFit |  |
 | Joshua Duffney (`josh`) | Senior Systems Engineer @ ACI Worldwide | [LinkedIn](https://www.linkedin.com/in/joshuaduffney) | Powershell guy, gives talks and links us to awesome devops vids |  |
 | June Blender (`juneb`) | Technical Evangelist @ SAPIEN Technologies, Inc. | [sapien.com/blog](https://www.sapien.com/blog) | Programmer/Writer. Writes help. Reads help. Lives PowerShell. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/juneb_get_help) |
