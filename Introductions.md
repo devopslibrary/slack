@@ -52,6 +52,7 @@
 | Phil (`phil`) | Site Ops @ Angies List |  | |  |
 | Ray Crawford (`raycrawford`) | IaaS Service Manager @ Procter & Gamble | [Github](https://github.com/raycrawford/) | Cloudifying and Automating an Outsourced Enterprise one box at at time | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/reachtheworld) |
 | Rob Reynolds (`ferventcoder`) | Senior Software Engineer @ Puppet | [codebetter.com/robreynolds](http://codebetter.com/robreynolds) | Creator of Chocolatey (package manager for Windows) / Puppet <3 Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/ferventcoder) |
+| Rob Nelson (`rnelson0`) | Infrastructure Engineer @ ATT | [Blog](https://rnelson0.com), [Github](https://github.com/rnelson0) | Fixer of Things With Power Cables | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/rnelson0) |
 | Robin Blanchard (`robin`) | Awesome Linux guy @ Nephila Advisors |  | Awesome at Big Data/Linux/Storage/Hadoop |  |
 | Rodney (`rodney`) | ? @ Interactive Intelligence |  | Master of VOIP |  |
 | Ryan McAdams(`mcadams`) | DevOps Manager @ Interactive Intelligence |  | Openstack + VOIP + Slight minecraft skill |  |
