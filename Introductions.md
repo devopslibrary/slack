@@ -55,6 +55,7 @@
 | Rob Nelson (`rnelson0`) | Infrastructure Engineer @ ATT | [Blog](https://rnelson0.com), [Github](https://github.com/rnelson0) | Fixer of Things With Power Cables | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/rnelson0) |
 | Robin Blanchard (`robin`) | Awesome Linux guy @ Nephila Advisors |  | Awesome at Big Data/Linux/Storage/Hadoop |  |
 | Rodney (`rodney`) | ? @ Interactive Intelligence |  | Master of VOIP |  |
+| Roger Futrell (`rogfut`) | DevOps System Administrator @ Costco Travel | [Blog](http://rogfut.github.io) | DevOps stuff, Powershell |  |
 | Ryan McAdams(`mcadams`) | DevOps Manager @ Interactive Intelligence |  | Openstack + VOIP + Slight minecraft skill |  |
 | Shawn Hall (`s.hall`) | DevOps @ Indianapolis Company |  | PowerShell + Puppet Skills |  |
 | Shawn Neal (`sneal`) | Solutions Architect @ Pivotal | [codingonstilts.com](http://codingonstilts.com) | Windows DevOps Contributor: Vagrant, Packer, CloudFoundry, WinRM gem, Chef | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/sneal78) |
