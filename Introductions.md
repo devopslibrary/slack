@@ -17,7 +17,7 @@
 | Greg Vauter (`gvauter`) | Automation? @ Interactive Intelligence | [GitHub](https://github.com/gvauter) | Automation Guy? Let me know what to put! |  |
 | Hamid Maddi (`hamid`) | Automation Engineer @ Interactive Intelligence | | Super Openstack/Infrastructure Guy |  |
 | Jody Tooley (`jody.tooley`) | DevOps Manager @ AngiesList.com |  | Awesome Docker + Jenkins Skills, weak at Starcraft |  |
-| Joe Beaudry (`jbeaudry`) | Systems Engineer @ Brainshark | [ctrlaltshoot.com](http://www.ctrlaltshoot.com) | Swiss army knife of random infrastructure skills. |  |
+| Joe Beaudry (`jbeaudry`) | Devops @ Slalom Consulting | [beaudry.io](http://www.beaudry.io) | Swiss army knife of random infrastructure skills. |  |
 | John Wenzler (`jwenzler`) | DevOps @ iFit | [GitHub](https://github.com/jwenzler) | DevOps Guy @ iFit |  |
 | Joshua Duffney (`josh`) | Senior Systems Engineer @ ACI Worldwide | [LinkedIn](https://www.linkedin.com/in/joshuaduffney) | Powershell guy, gives talks and links us to awesome devops vids |  |
 | Justino Garcia (`itadder`) | |  | |  |

@@ -94,8 +94,8 @@ $Intro +=@{name = 'hamid';
 
 $Intro +=@{name = 'jbeaudry';
            fullName = 'Joe Beaudry';
-           currentStatus = 'Systems Engineer @ Brainshark';
-           website = 'http://www.ctrlaltshoot.com';
+           currentStatus = 'Devops @ Slalom Consulting';
+           website = 'http://www.beaudry.io';
            claimToFame = 'Swiss army knife of random infrastructure skills.';
            twitter = 'Unknown'}
 
