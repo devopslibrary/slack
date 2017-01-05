@@ -30,6 +30,7 @@
 | Glenn Sarti (`glennsarti`) | Senior Software Developer (Windows) @ [Puppet](http://puppet.com) | [Blog](http://glennsarti.github.io/),[GitHub](https://github.com/glennsarti) | Windows Software and Infrastructure Developer.  With a penchant for DevOps, Puppet, Neo4j and anything Windows related.  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/glennsarti) |
 | Greg Vauter (`gvauter`) | Automation? @ Interactive Intelligence | [GitHub](https://github.com/gvauter) | Automation Guy? Let me know what to put! |  |
 | Hamid Maddi (`hamid`) | Automation Engineer @ Interactive Intelligence | | Super Openstack/Infrastructure Guy |  |
+| Jai Kang (`jkang`) | DevOps Engineer @ Paylocity | [runas.me](https://runas.me) | Powershell and other glue | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/prattlesnake) |
 | Jaap Brasser (`jaapbrasser`) | Cloud and Automation Engineer | [JaapBrasser.com](http://www.jaapbrasser.com) | Automating a way | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jaapbrasser) |
 | Jared Barnett (`jmwbarnett`) | Systems Architect @ Verizon Enterprise Solutions | [LinkedIn](https://www.linkedin.com/in/jared-barnett-72b40719) | Developer, transitioning to DevOps, always learning | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jmwbarnett) |
 | Jody Tooley (`jody.tooley`) | DevOps Manager @ AngiesList.com |  | Awesome Docker + Jenkins Skills, weak at Starcraft |  |
