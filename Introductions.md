@@ -49,7 +49,7 @@
 | Matt Stratton (`mattstratton`) | Solutions Engineer @ Chef | [arresteddevops.com](https://www.arresteddevops.com) | Co-host of Arrested DevOps. Chef Enthusiast. Whovian. Chicago. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mattstratton) |
 | Matthew Hodgkins (`hodge`) | Senior Systems Engineer @ Coolblue | [hodgkins.io](https://hodgkins.io/) | PowerShell, Metrics, Monitoring, Automation lover and Aussie living in the Netherlands. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/matthodge) |
 | Matt Hitchcock (`hitchysan`) | Secure Infra Consultant @ Microsoft (SG) | [hitchcode.com](http://hitchcode.com) | Doing Cloud, DevOps/Infra-as-Code & Identity related stuff at Microsoft in APJ | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/hitchysg_MSFT) |
-| Michael Greene (`migreene`) | Principal Program Manager @ Microsoft, ECG CAT team | [GitHub](http://github.com/mgreenegit) | Microsoft Principal Program Manager, CAT Team, focus on PowerShell and Cloud Architecture | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/migreene) |
+| Michael Greene (`migreene`) | Principal Program Manager @ Microsoft | [GitHub](http://github.com/mgreenegit) | PowerShell PM / Azure Automation | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/migreene) |
 | Mikal Wade (`wademikalj`) | Site Operations Manager @ Angies List |  | |  |
 | Nicholas H (`leskat`) | Mortar Infantry @ Swiss Army | | Windows automation, PowerShell, SCCM, Security, Blowing things up |  |
 | Patrick Lavalley (`pat`) | |  | |  |
