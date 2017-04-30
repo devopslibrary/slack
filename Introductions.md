@@ -1,8 +1,8 @@
 | Name | Role | Website | Tagline | TWTR |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | Aaron Jensen (`aaronjensen`) | Senior Automation Engineer @ WebMD Health Services | [pshdo.com](http://pshdo.com) | Creator/owner of Carbon, http://get-carbon.org | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/splatteredbits) |
 | Adam Bertram (`adbertram`) | Senior Automation Engineer @ Genomic Health | [Github](http://github.com/adbertram/) | Adam the Automator | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/adbertram) |
-| Andrew Marwood (`mario_wood`) | Senior DevOps Engineer @ Traceone |  |  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mario_wood) |
+| Andrew Marwood (`mario_wood`) | Platform Engineer @ Just Eat |  |  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mario_wood) |
 | Andrew Pearce (`austoonz`) | Systems Development Engineer @ Amazon Web Services | [blog.austoonz.net](https://blog.austoonz.net) | Breeding Windows cattle in the AWS ecosystem using PowerShell and DSC. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/austoonz) |
 | Andrew White (`andreww`) | Site Ops Engineer @ AngiesList.com |  | Awesome painter, QA, Operations guy with sense of humor |  |
 | Ben Gelens (`bgelens`) | CloudOS Consultant @ Inovativ | [GitHub](https://github.com/bgelens) | Mainly PowerShell, DSC, Azure, Azure Stack and Azure Pack. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/bgelens) |
@@ -10,8 +10,10 @@
 | Bob Dean (`bob-dean`) | Infrastructure Architect @ Mitre.org | | Windows, PowerShell, DSC | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/PrimalType1) |
 | Brad Williamson (`bradtech`) | DevOps @ State of Oklahoma Public Sector |  | Chef, Windows, PowerShell, VMware |  |
 | Brandon Olin (`devblackops`) | Lead Systems Engineer @ Columbia Sportswear | [devblackops.io](http://devblackops.io) | Does PowerShell, DSC, Chef, and other duties as assigned. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/devblackops) |
+| Brian Bunke (`brianbunke`) | Systems Integrator @ Janicki | [Blog](http://www.brianbunke.com), [GitHub](https://github.com/brianbunke) | Test, write, learn, iterate | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/brianbunke) |
 | Carlos Murray (`Carlos1Murray`) | |  | Currently working on entering IT |  |
 | Chase Campos (`chewster`) | Site Reliability Engineer @ AngiesList.com |  | |  |
+| Chris Brucker (`bruckect`) | Systems Administrator @ First Financial Bank | [Github](https://github.com/bruckect)<br>[LinkedIn](https://www.linkedin.com/in/cbrucker) | Automating all the things with PowerShell, Learning how to do DevOps on Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/bruckect) |
 | Chris Hunt (`cdhunt`) | Systems Engineer @ Ticketmaster | [automatedops.com](http://automatedops.com) | SaaS Operator. PowerShell.org TechLetter Editor | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/logicaldiagram) |
 | Chris Lee (`cyclopsox`) | Senior ? @ Kinney Group |  | Awesome Jack of all Trades guy, big on Jenkins/Linux. |  |
 | Chris Smith (`chlsmith`) | DevOps @ Trek Bikes | [http://coffeeandpizza.net](http://www.coffeeandpizza.net/) | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chlsmith) |
@@ -23,6 +25,7 @@
 | David Wilson (`daviwil`) | Software Engineer @ Microsoft | [daviwil.com](https://daviwil.com/) | I make PowerShell editing tools.  PowerShell ISE, Visual Studio Code, etc. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/daviwil) |
 | Derek Ardolf (`scriptautomate`) | Systems Development Engineer @ Amazon Web Services | [halfwaytoinfinite.com](http://halfwaytoinfinite.com) | DevOps Evangelist, PowerShell Fiend, Linux Friend, Automating All The Things | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/scriptautomate) |
 | Doug Finke (`dfinke`) | Architect @ BlueMetal | [dougfinke.com](http://dougfinke.com/blog) | DevOps/Azure/***PowerShell*** | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/dfinke) |
+| Ebru Cucen (`ebru`)| DevOps contractor, Trainer associate (currently at QA) | [GitHub](https://github.com/ebrucucen)| Powershell, Puppet, Jenkins, Azure, AWS.  (Windows&Linux)|  [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/ebrucucen) |
 | Eric Anderson (`ericsysmin`) | Senior DevOps / Customer Success @ [Avi Networks](http://avinetworks.com) | [ericsysmin.com](http://ericsysmin.com) | Everything DevOps! (Salt, Puppet, Ansible, Jenkins, AWS Architect, OpenStack Engineer | |
 | Eric Courville (`organicit`) | Senior Member @ Verizon | [organicit.io](http://organicit.io) | PowerShell MVP & Lover of Linux | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/_organicit) |
 | Flynn Bundy (`bundyfx`) | Systems Engineer @ Coolblue | [flynnbundy.com](http://flynnbundy.com/) | A Windows based Systems Engineer currently residing in Rotterdam, The Netherlands. |  |
@@ -37,7 +40,7 @@
 | Joe Beaudry (`jbeaudry`) | Devops @ Slalom Consulting | [beaudry.io](http://www.beaudry.io) | Swiss army knife of random infrastructure skills. |  |
 | Joel Bennett (`jaykul`) | DevOps @ Questionmark | [HuddledMasses](http://HuddledMasses.org) | I fix things with code | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jaykul) |
 | John Wenzler (`jwenzler`) | DevOps @ iFit | [GitHub](https://github.com/jwenzler) | DevOps Guy @ iFit |  |
-| Joshua Duffney (`josh`) | Senior Systems Engineer @ ACI Worldwide | [LinkedIn](https://www.linkedin.com/in/joshuaduffney) | Powershell guy, gives talks and links us to awesome devops vids |  |
+| Joshua Duffney (`josh`) | DevOps Engineer @ Paylocity | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/joshduffney) | Powershell & DSC guy, Pluralsight author |  |
 | JP Toto (`jptoto`) | Devops Engineer @ eMoney Advisor | [jptoto.jp](http://jptoto.jp) | Recovering C# developer, Pluralsight author, occasional speaker and writer | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jptoto) |
 | June Blender (`juneb`) | Technical Evangelist @ SAPIEN Technologies, Inc. | [sapien.com/blog](https://www.sapien.com/blog) | Programmer/Writer. Writes help. Reads help. Lives PowerShell. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/juneb_get_help) |
 | Justino Garcia (`itadder`) | |  | |  |
@@ -49,7 +52,7 @@
 | Matt Stratton (`mattstratton`) | Solutions Engineer @ Chef | [arresteddevops.com](https://www.arresteddevops.com) | Co-host of Arrested DevOps. Chef Enthusiast. Whovian. Chicago. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mattstratton) |
 | Matthew Hodgkins (`hodge`) | Senior Systems Engineer @ Coolblue | [hodgkins.io](https://hodgkins.io/) | PowerShell, Metrics, Monitoring, Automation lover and Aussie living in the Netherlands. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/matthodge) |
 | Matt Hitchcock (`hitchysan`) | Secure Infra Consultant @ Microsoft (SG) | [hitchcode.com](http://hitchcode.com) | Doing Cloud, DevOps/Infra-as-Code & Identity related stuff at Microsoft in APJ | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/hitchysg_MSFT) |
-| Michael Greene (`migreene`) | Principal Program Manager @ Microsoft, ECG CAT team | [GitHub](http://github.com/mgreenegit) | Microsoft Principal Program Manager, CAT Team, focus on PowerShell and Cloud Architecture | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/migreene) |
+| Michael Greene (`migreene`) | Principal Program Manager @ Microsoft | [GitHub](http://github.com/mgreenegit) | PowerShell PM / Azure Automation | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/migreene) |
 | Mikal Wade (`wademikalj`) | Site Operations Manager @ Angies List |  | |  |
 | Nicholas H (`leskat`) | Mortar Infantry @ Swiss Army | | Windows automation, PowerShell, SCCM, Security, Blowing things up |  |
 | Patrick Lavalley (`pat`) | |  | |  |
@@ -61,6 +64,7 @@
 | Rodney (`rodney`) | ? @ Interactive Intelligence |  | Master of VOIP |  |
 | Roger Futrell (`rogfut`) | DevOps System Administrator @ Costco Travel | [Blog](http://rogfut.github.io) | DevOps stuff, Powershell |  |
 | Ryan McAdams(`mcadams`) | DevOps Manager @ Interactive Intelligence |  | Openstack + VOIP + Slight minecraft skill |  |
+| Scott Clark (`psjeeper`) | Senior Database Administrator @ F5 |  | SQL Server + PowerShell |  |
 | Shawn Hall (`s.hall`) | DevOps @ Indianapolis Company |  | PowerShell + Puppet Skills |  |
 | Shawn Neal (`sneal`) | Solutions Architect @ Pivotal | [codingonstilts.com](http://codingonstilts.com) | Windows DevOps Contributor: Vagrant, Packer, CloudFoundry, WinRM gem, Chef | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/sneal78) |
 | Steven Murawski (`smurawski`) | Software Development Engineer @ Chef | [stevenmurawski.com](http://stevenmurawski.com) | Total Chef Expert | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/stevenmurawski) |
@@ -76,7 +80,9 @@
 | Mike Lombardi (`michaeltlombardi`) | PowerShell Developer @ Maritz IT Services, Inc | [Blog](https://michaeltlombardi.github.io),[Github](http://github.com/michaeltlombardi/) | Continually Improving PowerShell ShadowBeard | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/barbariankb) |
 | Keith Hill (`r_keith_hill`) | Developer @ Keysight Technologies, Inc | [Blog](http://rkeithhill.wordpress.com),   [Github](http://github.com/rkeithhill/) | MVP / Creator [PSCX](https://github.com/pscx/pscx), Contributor to VSCode-PowerShell, PowerShellEditorServices and Plaster | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/r_keith_hill) |
 | Will Schroeder (`harmj0y`) | Red Teamer/Offensive Developer @ Veris Group's Adaptive Threat Division | [Blog](http://blog.harmj0y.net),   [Github](https://github.com/harmj0y) | PowerShell MVP, Contributor to [PowerSploit](https://github.com/powershellmafia/powersploit), that [PowerShell Empire](https://github.com/powershellempire/Empire) guy | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/harmj0y) | 
-| Jason Barbier (`kusuriya`) | Service Engineer @ Turn 10 Studios | [Blog](https://blog.corrupted.io),[GitHub](https://github.com/kusuriya) | Why am I scheduling a downtime, I thought this is what the SLA and cluster were for. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/slaughterhut) |
+| Jason Barbier (`kusuriya`) | Systems Development Engineer @ Amazon Web Services| [Blog](https://blog.corrupted.io),[GitHub](https://github.com/kusuriya) | Why am I scheduling a downtime, I thought this is what the SLA and cluster were for. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/slaughterhut) |
 |Irwin Strachan (`irwins`) | Technical Consultant @ Centric Managed Services | [Blog](http://pshirwin.wordpress.com),   [Github](https://github.com/irwins) |  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/irwinstrachan) | 
 | Tom Hall (`tmhall99`) | DevOps Engineer @ American Campus Communities in ATX | [Medium](https://medium.com/@tmhall99) | DevOps Enthusiast - Infrastructure Architect - Continually Improving | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/tmhall99) |
 | Jesse Gigler (`jgigler`) | Senior DevOps Engineer @ Ellucian | DevOps, Powershell, Terraform, AWS | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jessegigler) |
+| David Alexander (`thelonelyghost`) | Automation Engineer @ Salesforce (US) | [Profile](https://www.thelonelyghost.com) | Open source dev, primarily in the web sector | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/thelonelyghost)
+| Gilbert Sanchez (`heyitsgilbert`) | Señor Systems Engineer @ Facebook | [Blog](http://gilbertsanchez.com), [Github](http://github.com/HeyItsGilbert/) | Chef, Packer, Powershell | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/HeyItsGilbertS)
