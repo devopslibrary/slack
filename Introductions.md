@@ -40,7 +40,7 @@
 | Joe Beaudry (`jbeaudry`) | Devops @ Slalom Consulting | [beaudry.io](http://www.beaudry.io) | Swiss army knife of random infrastructure skills. |  |
 | Joel Bennett (`jaykul`) | DevOps @ Questionmark | [HuddledMasses](http://HuddledMasses.org) | I fix things with code | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jaykul) |
 | John Wenzler (`jwenzler`) | DevOps @ iFit | [GitHub](https://github.com/jwenzler) | DevOps Guy @ iFit |  |
-| Joshua Duffney (`josh`) | Senior Systems Engineer @ ACI Worldwide | [LinkedIn](https://www.linkedin.com/in/joshuaduffney) | Powershell guy, gives talks and links us to awesome devops vids |  |
+| Joshua Duffney (`josh`) | DevOps Engineer @ Paylocity | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/joshduffney) | Powershell & DSC guy, Pluralsight author |  |
 | JP Toto (`jptoto`) | Devops Engineer @ eMoney Advisor | [jptoto.jp](http://jptoto.jp) | Recovering C# developer, Pluralsight author, occasional speaker and writer | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jptoto) |
 | June Blender (`juneb`) | Technical Evangelist @ SAPIEN Technologies, Inc. | [sapien.com/blog](https://www.sapien.com/blog) | Programmer/Writer. Writes help. Reads help. Lives PowerShell. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/juneb_get_help) |
 | Justino Garcia (`itadder`) | |  | |  |
