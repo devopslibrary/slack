@@ -22,7 +22,7 @@
 | Cobus Bernard (`cobusbernard`) | DevOps @ HealthQ | [cobus.io](http://cobus.io/) | DevOpser with Chef, Ansible, Jenkins.  Also Codes. Playing with Docker |  |
 | Aaron Jensen (`aaronjensen`) | Senior Automation Engineer @ WebMD Health Services | [pshdo.com](http://pshdo.com) | Creator/owner of Carbon, http://get-carbon.org | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/splatteredbits) |
 | Adam Bertram (`adbertram`) | Senior Automation Engineer @ Genomic Health | [Github](http://github.com/adbertram/) | Adam the Automator | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/adbertram) |
-| Alvaro Miranda Aguilera (`kikitux`) |  | [Linkedin](http://linkedin.com/in/kikitux)) | Linux, Oracle, AutoMation tools | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/kikitux)
+| Alvaro Miranda Aguilera (`kikitux`) |  | [Linkedin](http://linkedin.com/in/kikitux) | Linux, Oracle, AutoMation tools | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/kikitux)
 | Andrew Marwood (`mario_wood`) | Platform Engineer @ Just Eat |  |  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mario_wood) |
 | Andrew Pearce (`austoonz`) | Systems Development Engineer @ Amazon Web Services | [blog.austoonz.net](https://blog.austoonz.net) | Breeding Windows cattle in the AWS ecosystem using PowerShell and DSC. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/austoonz) |
 | Andrew White (`andreww`) | Site Ops Engineer @ AngiesList.com |  | Awesome painter, QA, Operations guy with sense of humor |  |
