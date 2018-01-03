@@ -89,3 +89,4 @@
 | Jesse Gigler (`jgigler`) | Senior DevOps Engineer @ Ellucian | DevOps, Powershell, Terraform, AWS | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jessegigler) |
 | David Alexander (`thelonelyghost`) | Automation Engineer @ Salesforce (US) | [Profile](https://www.thelonelyghost.com) | Open source dev, primarily in the web sector | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/thelonelyghost)
 | Gilbert Sanchez (`heyitsgilbert`) | Señor Systems Engineer @ Facebook | [Blog](http://gilbertsanchez.com), [Github](http://github.com/HeyItsGilbert/) | Chef, Packer, Powershell | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/HeyItsGilbertS)
+| Robert Van Kleeck (`rvankleeck`) | Systems Engineer @ Salesforce | [Github](https://github.com/strocknar) | GSD |
