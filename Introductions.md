@@ -90,4 +90,5 @@
 | Jesse Gigler (`jgigler`) | DevOps Architect @ Acendre | [GitHub](http://github.com/jessegigler) | Enterprise + Federal DevOps, PowerShell, Terraform, AWS |[<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jessegigler) |
 | David Alexander (`thelonelyghost`) | Automation Engineer @ Salesforce (US) | [Profile](https://www.thelonelyghost.com) | Open source dev, primarily in the web sector | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/thelonelyghost)
 | Gilbert Sanchez (`heyitsgilbert`) | Señor Systems Engineer @ Facebook | [Blog](http://gilbertsanchez.com), [Github](http://github.com/HeyItsGilbert/) | Chef, Packer, Powershell | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/HeyItsGilbertS)
+| Alvaro Miranda Aguilera (`kikitux`) |  | [Linkedin](http://linkedin.com/in/kikitux)) | Linux, Oracle, AutoMation tools | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/kikitux)
 | Robert Van Kleeck (`rvankleeck`) | Systems Engineer @ Salesforce | [Github](https://github.com/strocknar) | GSD |
