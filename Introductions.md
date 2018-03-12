@@ -1,5 +1,6 @@
 | Name | Role | Website | Tagline | TWTR |
 |---|---|---|---|---|
+| Aaron Caito (`acaito`) | Director of Professional Services @ Trek10 |  | Practice Building: Serverless Consulting on AWS | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/aaroncaito) |
 | Aaron Jensen (`aaronjensen`) | Senior Automation Engineer @ WebMD Health Services | [pshdo.com](http://pshdo.com) | Creator/owner of Carbon, http://get-carbon.org | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/splatteredbits) |
 | Adam Bertram (`adbertram`) | Senior Automation Engineer @ Genomic Health | [Github](http://github.com/adbertram/) | Adam the Automator | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/adbertram) |
 | Andrew Marwood (`mario_wood`) | Platform Engineer @ Just Eat |  |  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/mario_wood) |
