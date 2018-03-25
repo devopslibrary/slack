@@ -31,7 +31,7 @@
 | Bill Jones (`bill.jones`) | Lead Database Engineer @ SalesForce.com |  | Lord of MySQL & Awesome at Operations, formerly AL |  |
 | Bob Dean (`bob-dean`) | Infrastructure Architect @ Mitre.org | | Windows, PowerShell, DSC | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/PrimalType1) |
 | Brad Williamson (`bradtech`) | DevOps @ State of Oklahoma Public Sector |  | Chef, Windows, PowerShell, VMware |  |
-| Brandon Olin (`devblackops`) | Lead Systems Engineer @ Columbia Sportswear | [devblackops.io](http://devblackops.io) | Does PowerShell, DSC, Chef, and other duties as assigned. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/devblackops) |
+| Brandon Olin (`devblackops`) | Cloud Enterprise Architect @ Columbia Sportswear | [devblackops.io](http://devblackops.io) | Does PowerShell, DSC, Chef, and other duties as assigned. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/devblackops) |
 | Brian Bunke (`brianbunke`) | Systems Integrator @ Janicki | [Blog](http://www.brianbunke.com), [GitHub](https://github.com/brianbunke) | Test, write, learn, iterate | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/brianbunke) |
 | Brian Marsh (`pezhore`) | | [Blog](https://devmeetsops.com), [GitHub](https://github.com/pezhore) | Automation, Virtualization, Learning new things | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/pezhore) |
 | Carlos Murray (`Carlos1Murray`) | |  | Currently working on entering IT |  |
