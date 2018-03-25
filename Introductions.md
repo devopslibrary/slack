@@ -33,6 +33,7 @@
 | Brad Williamson (`bradtech`) | DevOps @ State of Oklahoma Public Sector |  | Chef, Windows, PowerShell, VMware |  |
 | Brandon Olin (`devblackops`) | Lead Systems Engineer @ Columbia Sportswear | [devblackops.io](http://devblackops.io) | Does PowerShell, DSC, Chef, and other duties as assigned. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/devblackops) |
 | Brian Bunke (`brianbunke`) | Systems Integrator @ Janicki | [Blog](http://www.brianbunke.com), [GitHub](https://github.com/brianbunke) | Test, write, learn, iterate | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/brianbunke) |
+| Brian Marsh (`pezhore`) | | [Blog](https://devmeetsops.com), [GitHub](https://github.com/pezhore) | Automation, Virtualization, Learning new things | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/pezhore) |
 | Carlos Murray (`Carlos1Murray`) | |  | Currently working on entering IT |  |
 | Chase Campos (`chewster`) | Site Reliability Engineer @ AngiesList.com |  | |  |
 | Chris Brucker (`bruckect`) | Systems Administrator @ First Financial Bank | [Github](https://github.com/bruckect)<br>[LinkedIn](https://www.linkedin.com/in/cbrucker) | Automating all the things with PowerShell, Learning how to do DevOps on Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/bruckect) |
