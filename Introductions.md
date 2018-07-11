@@ -15,7 +15,7 @@
 | Carlos Murray (`Carlos1Murray`) | |  | Currently working on entering IT |  |
 | Chase Campos (`chewster`) | Site Reliability Engineer @ AngiesList.com |  | |  |
 | Chris Brucker (`bruckect`) | Systems Administrator @ First Financial Bank | [Github](https://github.com/bruckect)<br>[LinkedIn](https://www.linkedin.com/in/cbrucker) | Automating all the things with PowerShell, Learning how to do DevOps on Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/bruckect) |
-| Chris Hunt (`cdhunt`) | Systems Engineer @ Ticketmaster | [automatedops.com](http://automatedops.com) | SaaS Operator. PowerShell.org TechLetter Editor | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/logicaldiagram) |
+| Chris Hunt (`cdhunt`) | Site Reliability Engineer @ Stack Overflow | [automatedops.com](http://automatedops.com) | Lvl 18 Chaotic-Good Human Male Devops Wizard. #SysDadmin #Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/logicaldiagram) |
 | Chris Lee (`cyclopsox`) | Senior ? @ Kinney Group |  | Awesome Jack of all Trades guy, big on Jenkins/Linux. |  |
 | Chris Smith (`chlsmith`) | DevOps @ Trek Bikes | [http://coffeeandpizza.net](http://www.coffeeandpizza.net/) | | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chlsmith) |
 | Chris Wahl (`chriswahl`) | Tech Evangelist @ Rubrik | [http://wahlnetwork.com/](http://wahlnetwork.com/) | Host of the [Datanauts Podcast](http://packetpushers.net/datanauts-podcast/) | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/chriswahl) |
