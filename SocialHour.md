@@ -2,7 +2,7 @@
 
 ## What
 
-An informal gathering of member over voice/video chat that may or may not include any technical discussions.
+An informal gathering of members over voice/video chat that may or may not include any technical discussions.
 Okay, it will probably involve technical discussions.
 Think of it as a Conference Virtual Hallway Track.
 
@@ -23,7 +23,7 @@ Everyone has different schedules and there's no way to accommodate everyone so j
 It doesn't have to be an hour.
 If all you have is 30 minutes, then make it 30 minutes.
 
-Announce the schedule on `#General` at least once. It's not like we have a shared calender system.
+Announce the schedule on `#General` at least once. It's not like we have a shared calendar system.
 
 ### Technology
 
@@ -37,6 +37,6 @@ Whatever, but keep it appropriate.
 
 ## Nomination
 
-A side affect of changing the MC weekly is the randomize the event.
+A side effect of changing the MC weekly is the event configuration is randomized.
 As mentioned previously, this will never work for everyone every time.
 It's not a formal committee that requires a quorum, it's just a chance to spawn serendipitous conversations with your peers that don't happen as often in text chat.
