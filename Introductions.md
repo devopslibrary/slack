@@ -13,6 +13,7 @@
 | Brandon Olin (`devblackops`) | Lead Systems Engineer @ Columbia Sportswear | [devblackops.io](http://devblackops.io) | Does PowerShell, DSC, Chef, and other duties as assigned. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/devblackops) |
 | Brian Bunke (`brianbunke`) | Systems Integrator @ Janicki | [Blog](http://www.brianbunke.com), [GitHub](https://github.com/brianbunke) | Test, write, learn, iterate | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/brianbunke) |
 | Carlos Murray (`Carlos1Murray`) | |  | Currently working on entering IT |  |
+| Carlos Vitor Barros (`cvbarros`) | Senior Cloud Engineer @ Coolblue | [cvbarros.io](https://cvbarros.io) | C#, Go, Terraform, AWS, Cloudformation and whatever else they throw at me | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/cvbarros) |
 | Chase Campos (`chewster`) | Site Reliability Engineer @ AngiesList.com |  | |  |
 | Chris Brucker (`bruckect`) | Systems Administrator @ First Financial Bank | [Github](https://github.com/bruckect)<br>[LinkedIn](https://www.linkedin.com/in/cbrucker) | Automating all the things with PowerShell, Learning how to do DevOps on Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/bruckect) |
 | Chris Hunt (`cdhunt`) | Site Reliability Engineer @ Stack Overflow | [automatedops.com](http://automatedops.com) | Lvl 18 Chaotic-Good Human Male Devops Wizard. #SysDadmin #Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/logicaldiagram) |
