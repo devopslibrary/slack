@@ -72,6 +72,7 @@
 | Jason Barbier (`kusuriya`) | Systems Development Engineer @ Amazon Web Services| [Blog](https://blog.corrupted.io),[GitHub](https://github.com/kusuriya) | Why am I scheduling a downtime, I thought this is what the SLA and cluster were for. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/slaughterhut) |
 | Jason Morgan (`jasonmorgan`) | Tools and Innovation Engineer @ Verizon | [GitHub](http://github.com/JasonMorgan) | I like computers | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/RJasonMorgan) |
 | Jeff Dillon (`jdillon3`) | SRE Manager @ Wayfair.com | [GitHub](https://github.com/jdillon3) | I sell couches | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/JeffDillonOps) |
+| Jess Pomfret (`jpomfret`) | SQL Server DBA | [JessPomfret.com](https://jesspomfret.com/) | Playing with DSC & SQL Servers | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jpomfret) |
 | Jesse Gigler (`jgigler`) | DevOps Architect @ Acendre | [GitHub](http://github.com/jessegigler) | Enterprise + Federal DevOps, PowerShell, Terraform, AWS |[<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jessegigler) |
 | Jody Tooley (`jody.tooley`) | DevOps Manager @ AngiesList.com |  | Awesome Docker + Jenkins Skills, weak at Starcraft |  |
 | Joe Beaudry (`jbeaudry`) | Devops @ Slalom Consulting | [beaudry.io](http://www.beaudry.io) | Swiss army knife of random infrastructure skills. |  |
