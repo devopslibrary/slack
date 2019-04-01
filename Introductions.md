@@ -95,6 +95,7 @@
 | Nicholas H (`leskat`) | Mortar Infantry @ Swiss Army | | Windows automation, PowerShell, SCCM, Security, Blowing things up |  |
 | Phil (`phil`) | Site Ops @ Angies List |  | |  |
 | Ray Crawford (`raycrawford`) | IaaS Service Manager @ Procter & Gamble | [Github](https://github.com/raycrawford/) | Cloudifying and Automating an Outsourced Enterprise one box at at time | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/reachtheworld) |
+| Rebecca Fitzhugh (`rfitzhugh`) | Principal Technologist @ Rubrik | [GitHub](https://github.com/rfitzhugh) | [Blog](https://technicloud.com) | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/rebeccafitzhugh) |
 | Rob Nelson (`rnelson0`) | Infrastructure Engineer @ ATT | [Blog](https://rnelson0.com), [Github](https://github.com/rnelson0) | Fixer of Things With Power Cables | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/rnelson0) |
 | Rob Reynolds (`ferventcoder`) | Senior Software Engineer @ Puppet | [codebetter.com/robreynolds](http://codebetter.com/robreynolds) | Creator of Chocolatey (package manager for Windows) / Puppet <3 Windows | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/ferventcoder) |
 | Robert Van Kleeck (`rvankleeck`) | Systems Engineer @ Salesforce | [Github](https://github.com/strocknar) | GSD |
