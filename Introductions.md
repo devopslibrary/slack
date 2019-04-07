@@ -93,6 +93,7 @@
 | Mikal Wade (`wademikalj`) | Site Operations Manager @ Angies List |  | |  |
 | Mike Lombardi (`michaeltlombardi`) | Software Engineer @ Puppet | [Blog](https://michaeltlombardi.gitlab.io), [Github](http://github.com/michaeltlombardi/), [GitLab](http://gitlab.com/michaeltlombardi/) | Continually Improving Automaton Barbarian | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/barbariankb) |
 | Nicholas H (`leskat`) | Mortar Infantry @ Swiss Army | | Windows automation, PowerShell, SCCM, Security, Blowing things up |  |
+| Paul Shamus (`pshamus`) | Sr. Systems Engineer @ Genomic Health | [Blog](https://www.duskconsulting.com)/[GitHub](https://github.com/pshamus) | Automating the world, one solution at a time | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/pshamus) |
 | Phil (`phil`) | Site Ops @ Angies List |  | |  |
 | Ray Crawford (`raycrawford`) | IaaS Service Manager @ Procter & Gamble | [Github](https://github.com/raycrawford/) | Cloudifying and Automating an Outsourced Enterprise one box at at time | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/reachtheworld) |
 | Rob Nelson (`rnelson0`) | Infrastructure Engineer @ ATT | [Blog](https://rnelson0.com), [Github](https://github.com/rnelson0) | Fixer of Things With Power Cables | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/rnelson0) |
