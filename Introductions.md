@@ -78,6 +78,7 @@
 | Joe Beaudry (`jbeaudry`) | Devops @ Slalom Consulting | [beaudry.io](http://www.beaudry.io) | Swiss army knife of random infrastructure skills. |  |
 | Joel Bennett (`jaykul`) | DevOps @ Questionmark | [HuddledMasses](http://HuddledMasses.org) | I fix things with code | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jaykul) |
 | John Wenzler (`jwenzler`) | DevOps @ iFit | [GitHub](https://github.com/jwenzler) | DevOps Guy @ iFit |  |
+| Jon Junell (`Jon Junell`) | Assoc. Dir & Prinicipal IT Architect @ [Western Washington University](https://www.wwu.edu) | [Blog](https://jonjunell.github.io/), [Work](https://eis.wwu.edu/) | HCI, Azure, Storage and managing people, oh my! | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/jonhikes) |
 | Josh Rickard (`MSAdministrator`) | Product Guy @ PhishMe | [msadministrator.com](http://www.msadministrator.com) | Digital Forensics, Incident Response, WIN_API, PowerShell Automation, Phishing | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/MS_dministrator) |
 | Joshua Duffney (`josh`) | DevOps Engineer @ Paylocity | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/joshduffney) | Powershell & DSC guy, Pluralsight author |  |
 | June Blender (`juneb`) | Technical Evangelist @ SAPIEN Technologies, Inc. | [sapien.com/blog](https://www.sapien.com/blog) | Programmer/Writer. Writes help. Reads help. Lives PowerShell. | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/juneb_get_help) |
