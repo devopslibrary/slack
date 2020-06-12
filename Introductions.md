@@ -62,6 +62,7 @@
 | Gary Ewan Park (`gep13`) | Senior Software Engineer @ Chocolatey | [Blog](https://gep13.co.uk), [GitHub](https://github.com/) | Cake Build, Chocolatey, GitVersion | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/gep13)
 | Gilbert Sanchez (`heyitsgilbert`) | Señor Systems Engineer @ Facebook | [Blog](http://gilbertsanchez.com), [Github](http://github.com/HeyItsGilbert/) | Chef, Packer, Powershell | [![Twitter](https://i.imgur.com/Y70LuVu.png)](https://twitter.com/HeyItsGilbertS)
 | Glenn Sarti (`glennsarti`) | Senior Software Developer (Windows) @ [Puppet](http://puppet.com) | [Blog](http://glennsarti.github.io/),[GitHub](https://github.com/glennsarti) | Windows Software and Infrastructure Developer.  With a penchant for DevOps, Puppet, Neo4j and anything Windows related.  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/glennsarti) |
+| Greg Swallow (`gswallow`) | DevOps @ DeveloperTown | [Medium](https://medium.com/@gswallow) | I do the needful and tell stories about it |  |
 | Greg Vauter (`gvauter`) | Automation? @ Interactive Intelligence | [GitHub](https://github.com/gvauter) | Automation Guy? Let me know what to put! |  |
 | Hamid Maddi (`hamid`) | Automation Engineer @ Interactive Intelligence | | Super Openstack/Infrastructure Guy |  |
 | Irwin Strachan (`irwins`) | Technical Consultant @ Centric Managed Services | [Blog](http://pshirwin.wordpress.com),   [Github](https://github.com/irwins) |  | [<img src="http://i.imgur.com/Y70LuVu.png">](https://twitter.com/irwinstrachan) |
